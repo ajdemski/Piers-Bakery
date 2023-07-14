@@ -1,15 +1,20 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using app.Models;
 
-namespace app.Tests
+namespace ModelTests
 {
   [TestClass]
   public class AppTests
   {
     [TestMethod]
-    public void TestMethod()
+    public void TestCalculateTotalBreadPrice()
     {
-      // test logic 
+      //Arange
+  
+
+      //Act
+
+
+      //Assert
     }
     [TestMethod]
     public void TestMethod1()
