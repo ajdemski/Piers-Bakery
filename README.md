@@ -1,4 +1,4 @@
-#### _Pier's Bakery By: Aaron Demski_
+#### _Pierr's Bakery By: Aaron Demski_
 
 # Technologies Used
 
