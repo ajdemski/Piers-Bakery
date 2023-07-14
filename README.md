@@ -6,11 +6,11 @@
 
 # Description
 
-_A Code Review Project from Aaron Demski, This repo is about Pier's Bakery! Input an amount in USD and select a currency you would like to exchange it to. To make this project yourself you will want to install Postman and follow the Setup/Installation Requirements Below. Hope you enjoy!_
+_A Code Review Project from Aaron Demski, This repo is about Pier's Bakery! To make this project yourself you will want to follow the Setup/Installation Requirements Below. Hope you enjoy!_
 
 
 # Setup/Installation Requirements
-this is a test
+
 
 # _Link To Site_
  
