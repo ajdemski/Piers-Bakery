@@ -15,7 +15,7 @@ namespace app
       Console.WriteLine("Enter the number of Pastries you'd like to purchase: ");
       int PastryQuant = int.Parse(Console.ReadLine() ?? "0");
 
-      Bread bread = new Bread();
+      BakeryBread bread = new BakeryBread();
       Pastry pastry = new Pastry();
 
       double breadPrice = bread.CalculateTotalPrice(BreadQuant);
@@ -24,18 +24,6 @@ namespace app
       double totalPrice = breadPrice + pastryPrice;
       Console.WriteLine($"Total Price: ${totalPrice}");
       Console.ReadLine();
-    }
-  }
-
-  class Bread
-  {
-    private const double BreadPrice = 5;
-
-    public double CalculateTotalPrice(int quantity)
-    {
-      int paidBread = quantity / 3 * 2;
-      int freeBread = quantity % 3;
-      return (paidBread + freeBread) * BreadPrice;
     }
   }
 
