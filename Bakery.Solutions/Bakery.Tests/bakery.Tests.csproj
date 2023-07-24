@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\app.csproj" />  
+    <ProjectReference Include="C:\Users\ajdem\Desktop\app\Bakery.Solutions\Bakery\bakery.csproj" />  
   </ItemGroup>
 
 </Project>
